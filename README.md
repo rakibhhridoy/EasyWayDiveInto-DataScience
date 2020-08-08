@@ -18,8 +18,7 @@ seaborn                                           all formula fr ds
 
 ## Pre requirements
 
-##### *Make sure you have ```Python``` installed. If you haven't python installed you can get from [here](https://www.python.org/downloads/)..
-Or you can install [Anaconda](https://www.anaconda.com/products/individual) for easy access of all libraries.*
+##### Make sure you have ```Python``` installed. If you haven't python installed you can get from [here](https://www.python.org/downloads/). Or you can install [Anaconda](https://www.anaconda.com/products/individual) for easy access of all libraries.
 
 ##### After Installing ```Python``` let's install our necessary libraries. Open *```Python Command Promp```* and type the following *Not needed in Anaconda Situation:
 ```bash
