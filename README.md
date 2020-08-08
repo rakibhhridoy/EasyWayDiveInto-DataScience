@@ -4,13 +4,13 @@
 
 
 ## This repo consist skills:
-```python
-numpy                           linear algebra
-pandas                          gradient descent
-matplotlib                      algorithm from scratch
-scipy                           multivariate calculus
-statsmodel                      statistics
-tensorflow                      frequential statistics
-scikit-learn                    bayesian statistics
-seaborn                         all formula for ds
+```bash
+numpy                                             linear algebra
+pandas                                            gradient descent
+matplotlib                                        algorithm from scratch
+scipy                                             multivariate calculus
+statsmodel                                        statistics
+tensorflow                                        frequential statistics
+scikit-learn                                      bayesian statistics
+seaborn                                           all formula for ds
 ```
