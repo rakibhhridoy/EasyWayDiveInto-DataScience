@@ -1,7 +1,5 @@
-# Easy Way to Dive Into Data Science
-<hr>
-<img src= "https://codersera.com/blog/wp-content/uploads/2019/11/main-page.jpg" height= "480px" width = "980px">
-
+# *Easy Way to Dive Into Data Science*
+![dsimage](https://codersera.com/blog/wp-content/uploads/2019/11/main-page.jpg)
 
 ## This repo consist learning:
 ```bash
@@ -46,5 +44,7 @@ import scipy as sc
 ```
 #### If you are not get any error till now, lets dive into the notebooks that is provided in *****```Notebook```***** folder.
 
+### Get touch with me
 
-
+Connect- [linkedin](https://linkedin.com/in/rakibhhridoy) <br>
+Website- [RakibHHridoy](https://rakibhhridoy.github.io) 
